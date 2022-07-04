@@ -3,6 +3,7 @@ package myapp;
 public class Z {
     int price;
     int age;
+
     public Z(int price) {
         this.price = price;
     }
